@@ -38,7 +38,7 @@ To run this program, you will need Python installed on your system. Follow the i
 
 To use the password cracker, run the script with the following command:
 ```sh
-python Brute-Force-Attack.py
+python attackpass.py
 ```
 
 You can customize the character set and the target password by modifying the script. Ensure that the target password is within the allowed length and character set.
