@@ -9,7 +9,6 @@ This repository contains a program that demonstrates a brute force method to cra
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
@@ -42,8 +41,4 @@ python attackpass.py
 ```
 
 You can customize the character set and the target password by modifying the script. Ensure that the target password is within the allowed length and character set.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
