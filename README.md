@@ -28,7 +28,6 @@ To run this program, you will need Python installed on your system. Follow the i
 1. Clone the repository:
    ```sh
    git clone https://github.com/HypertextCoder/Brute-Force-Attack.git
-   cd attackpass.py
    ```
 
 2. Install any necessary dependencies (if any).
